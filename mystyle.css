@@ -12,6 +12,45 @@ body {
 }
 
 a {
-    color: #87F9FF;
+    color: #00F4F4;
     text-decoration: none;
+}
+
+/*Custom Animation*/
+
+.bounceInUp1 {
+  	-webkit-animation-name: bounceInUp;
+  	animation-delay: 1s;
+	animation-name: bounceInUp;
+}
+
+.bounceInUp2 {
+	-webkit-animation-name: bounceInUp;
+	animation-delay: 2s;
+	animation-name: bounceInUp;
+
+}
+
+.bounceInUp3 {
+  	-webkit-animation-name: bounceInUp;
+  	animation-delay: 3s;
+	animation-name: bounceInUp;
+}
+
+.bounceInUp4 {
+	-webkit-animation-name: bounceInUp;
+	animation-delay: 4s;
+	animation-name: bounceInUp;
+}
+
+.bounceInUp5 {
+  	-webkit-animation-name: bounceInUp;
+  	animation-delay: 5s;
+	animation-name: bounceInUp;
+}
+
+.bounceInUp6 {
+	-webkit-animation-name: bounceInUp;
+	animation-delay: 6s;
+	animation-name: bounceInUp;
 }
