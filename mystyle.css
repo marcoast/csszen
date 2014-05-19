@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	color: #11A2AD;
+}
+
+.jumbotron {
+	color: #001E1F;
+}
+
+.jumbotron h2 {
+	color: #84C8C9;
+}
+
+a {
+    color: #87F9FF;
+    text-decoration: none;
+}

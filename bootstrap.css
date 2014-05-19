@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+@import url("http://fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
 /*!
  * Bootswatch v3.1.1+1
  * Homepage: http://bootswatch.com
@@ -277,7 +277,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #ffffff;
-  background-color: #108a93;
+  background-color: #002D2F;
 }
 input,
 button,
@@ -322,7 +322,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #108a93;
+  background-color: #002D2F;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -1438,7 +1438,7 @@ th {
   border-top: 2px solid #0d747c;
 }
 .table .table {
-  background-color: #108a93;
+  background-color: #002D2F;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -4402,7 +4402,7 @@ a.list-group-item.active > .badge,
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #108a93;
+  background-color: #002D2F;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
